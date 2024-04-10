@@ -35,7 +35,7 @@ def getLocations(filename):
 def printFieldsForA1Medical(datafields, can, locations, page):
 
     # Register cursive font for signatures.
-    pdfmetrics.registerFont(TTFont('CursiveBold', 'Garrison/Cursive-standard-Bold.ttf'))
+    pdfmetrics.registerFont(TTFont('CursiveBold', 'Cursive-standard-Bold.ttf'))
 
     # Loop through all field locations
     for loc in locations:
