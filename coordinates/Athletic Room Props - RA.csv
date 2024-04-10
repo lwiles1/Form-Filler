@@ -1,0 +1,11 @@
+,Vendor - Document,Form Entry,Fill Field,X,y,Specifier,Page
+1,Rental Agreement,Lessee/Company Name,,4.5,7.1,,4
+2,Rental Agreement,Job Name,,4.5,6.46,,4
+3,Rental Agreement,Authorzing Signature,Name of Authorized Signatory,4.5,5.78,Signature,4
+4,Rental Agreement,Print Name,,4.5,5.12,,4
+5,Rental Agreement,Title,,4.5,4.46,,4
+6,Rental Agreement,Date,,4.5,3.78,DateNow,4
+7,Rental Agreement,Lesser Signature,Name of Authorized Signatory,1.04,5.78,Signature,4
+8,Rental Agreement,Lesser Print Name,,1.04,5.12,,4
+9,Rental Agreement,Lesser Title,,1.04,4.44,,4
+10,Rental Agreement,Date,,1.04,3.78,DateNow,4
